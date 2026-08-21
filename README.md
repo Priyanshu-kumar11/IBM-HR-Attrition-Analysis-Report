@@ -1,5 +1,3 @@
-# IBM-HR-Attrition-Analysis-Report
-
 # HR Employee Attrition Analytics Dashboard
 
 An interactive **Power BI dashboard** designed to analyze employee attrition and support data-driven HR decision-making. The project provides a centralized view of workforce demographics, attrition patterns, compensation trends, and employee satisfaction factors.
